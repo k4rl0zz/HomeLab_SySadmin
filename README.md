@@ -34,7 +34,7 @@ Este documento se actualizará progresivamente conforme surjan nuevas observacio
 
 **[Capítulo 9: Automatización e Infraestructura como Código con Ansible](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%209.html)**
 
-**[Módulo Especial: Despliegue de SIEM/XDR Wazuh en RHEL/Fedora](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%20WAZUH.html)**
+**[Capitulo Wazuh: Despliegue de SIEM/XDR Wazuh en RHEL/Fedora](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%20WAZUH.html)**
 
 1. Uso de la documentación y validación de comandos
 
