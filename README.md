@@ -4,6 +4,15 @@ README
 
 Este documento se actualizará progresivamente conforme surjan nuevas observaciones, recomendaciones o aclaraciones relacionadas con el HomeLab y las prácticas desarrolladas.
 
+0. Como ver las paginas WEB
+
+--------------------------------------------------------------------------------------------
+##########################OJITO CON ESTO##########################
+--------------------------------------------------------------------------------------------
+
+**Nota técnica de visualización:** GitHub está diseñado nativamente para almacenar y auditar código fuente en texto plano, por lo cual restringe la ejecución directa de archivos HTML con hojas de estilo por motivos de seguridad perimetral. Para solucionar esto sin alterar la integridad del repositorio ni forzar la descarga de binarios pesados (como PDFs), este índice utiliza un proxy de renderizado seguro que interpreta dinámicamente las directivas de diseño CSS y la interactividad de los laboratorios en tiempo real, garantizando una experiencia de navegación web fluida y fiel al entorno oscuro original con un solo clic.
+
+**[Capítulo 1.1: Instalación de Sistemas Operativos RHEL y Fedora](https://htmlpreview.github.io/?https://github.com/k4rl0zz/nombre-de-tu-repositorio/blob/main/Parte%201.1.html)**
 1. Uso de la documentación y validación de comandos
 
 Parte de la documentación de los módulos ha sido generada con herramientas de inteligencia artificial. Debido a esto, es posible que algunos bloques de texto contengan errores o inconsistencias menores.
