@@ -14,8 +14,6 @@ Este documento se actualizará progresivamente conforme surjan nuevas observacio
 
 **[Capítulo 1.1: Instalación de Sistemas Operativos RHEL y Fedora](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%201.1.html)**
 
-**[Capítulo 1.1: Instalación de Sistemas Operativos RHEL y Fedora](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%201.1.html)**
-
 **[Capítulo 1.2: Configuración de Clientes Ubuntu y Windows](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%201.2.html)**
 
 **[Capítulo 2: Gestión de Almacenamiento y Servicios de Red](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%202.html)**
