@@ -13,6 +13,29 @@ Este documento se actualizará progresivamente conforme surjan nuevas observacio
 **Nota técnica de visualización:** GitHub está diseñado nativamente para almacenar y auditar código fuente en texto plano, por lo cual restringe la ejecución directa de archivos HTML con hojas de estilo por motivos de seguridad perimetral. Para solucionar esto sin alterar la integridad del repositorio ni forzar la descarga de binarios pesados (como PDFs), este índice utiliza un proxy de renderizado seguro que interpreta dinámicamente las directivas de diseño CSS y la interactividad de los laboratorios en tiempo real, garantizando una experiencia de navegación web fluida y fiel al entorno oscuro original con un solo clic.
 
 **[Capítulo 1.1: Instalación de Sistemas Operativos RHEL y Fedora](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%201.1.html)**
+
+**[Capítulo 1.1: Instalación de Sistemas Operativos RHEL y Fedora](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%201.1.html)**
+
+**[Capítulo 1.2: Configuración de Clientes Ubuntu y Windows](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%201.2.html)**
+
+**[Capítulo 2: Gestión de Almacenamiento y Servicios de Red](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%202.html)**
+
+**[Capítulo 3: Tareas Avanzadas y Hardening de SSH](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%203.html)**
+
+**[Capítulo 4: Servidores Web Apache, Postfix y CUPS](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%204.html)**
+
+**[Capítulo 5: Alta Disponibilidad con Pacemaker y Keepalived](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%205.html)**
+
+**[Capítulo 6: Seguridad Avanzada, IDS Snort 3 y MFA/2FA](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%206.html)**
+
+**[Capítulo 7: Almacenamiento Compartido y Dominio Samba4](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%207.html)**
+
+**[Capítulo 8: Contenedores Docker, Portainer y WordPress Stack](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%208.html)**
+
+**[Capítulo 9: Automatización e Infraestructura como Código con Ansible](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%209.html)**
+
+**[Módulo Especial: Despliegue de SIEM/XDR Wazuh en RHEL/Fedora](https://htmlpreview.github.io/?https://github.com/k4rl0zz/HomeLab_SySadmin/blob/main/Parte%20WAZUH.html)**
+
 1. Uso de la documentación y validación de comandos
 
 Parte de la documentación de los módulos ha sido generada con herramientas de inteligencia artificial. Debido a esto, es posible que algunos bloques de texto contengan errores o inconsistencias menores.
