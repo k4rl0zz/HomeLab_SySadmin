@@ -44,9 +44,9 @@ En caso de encontrar diferencias entre los comandos mostrados en las capturas de
 
 Dentro de este entorno de laboratorio se desarrollarán prácticas correspondientes a las siguientes asignaturas y módulos:
 
-Adrian SO3 (todo)
-Adrian Fund de Seguridad (Wazuh y Radius)
-Juan Alexander SSO (solo Linux)
+Adrian SO3 (todo).
+Adrian Fund de Seguridad (Wazuh y Radius).
+Juan Alexander SSO (solo Linux).
 
 
 3. Consideraciones sobre el firewall
