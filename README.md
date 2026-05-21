@@ -44,14 +44,9 @@ En caso de encontrar diferencias entre los comandos mostrados en las capturas de
 
 Dentro de este entorno de laboratorio se desarrollarán prácticas correspondientes a las siguientes asignaturas y módulos:
 
-Adrián
-Sistemas Operativos III (SO3)
-Fundamentos de Seguridad
-Wazuh
-RADIUS
-Juan Alexander
-Seguridad de Sistemas Operativos (SSO)
-Enfoque exclusivo en Linux
+Adrian SO3 (todo)
+Adrian Fund de Seguridad (Wazuh y Radius)
+Juan Alexander SSO (solo Linux)
 
 
 3. Consideraciones sobre el firewall
